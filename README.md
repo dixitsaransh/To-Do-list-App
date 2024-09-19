@@ -1,0 +1,1 @@
+The following project is dedicated to the basics of reacts js by which I have created a To-Do list app,the basic motive of using reacts is that it provide quick access and takes no loading time and moreover it is best for creating single page interfaces.
